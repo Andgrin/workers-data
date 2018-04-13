@@ -1,5 +1,5 @@
 {
-  "workers": [
+  "employees": [
     {
       "id": 1,
       "first_name": "Hakim",
@@ -9989,16 +9989,6 @@
       "company": "Cogidoo",
       "adress": "83232 Oak Drive",
       "phone": "430-282-1873"
-    },
-    {
-      "id": 1000,
-      "first_name": "Tatiania",
-      "last_name": "Cornthwaite",
-      "email": "tcornthwaiterr@amazon.de",
-      "avatar": "https://robohash.org/ininventorenumquam.jpg?size=150x150&set=set1",
-      "company": "Voolia",
-      "adress": "57529 Tony Parkway",
-      "phone": "799-522-6814"
     }
   ]
 }
